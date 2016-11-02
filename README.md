@@ -12,10 +12,9 @@ Features:
 
 It is an Open Source project provided on Apache v2.0 License.
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/allegro/ralph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/allegro/ralph.svg)](https://travis-ci.org/allegro/ralph)
-[![Coverage Status](https://coveralls.io/repos/allegro/ralph/badge.svg?branch=ng&service=github)](https://coveralls.io/github/allegro/ralph?branch=ng)
-[![Code Health](https://landscape.io/github/allegro/ralph/ng/landscape.svg?style=flat)](https://landscape.io/github/allegro/ralph/ng)
+[![Build Status](https://travis-ci.org/allanice001/ralph.svg)](https://travis-ci.org/allegro/ralph)
+[![Coverage Status](https://coveralls.io/repos/allanice001/ralph/badge.svg?branch=ng&service=github)](https://coveralls.io/github/allegro/ralph?branch=ng)
+[![Code Health](https://landscape.io/github/allanice001/ralph/ng/landscape.svg?style=flat)](https://landscape.io/github/allegro/ralph/ng)
 
 ## Documentation
 Visit our documentation on [readthedocs.org](http://ralph-ng.readthedocs.org)
